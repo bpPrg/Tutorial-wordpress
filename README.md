@@ -5,7 +5,7 @@ My personal blog https://bhishanpoudel.ml
 - First go to the website  https://bhishanpoudel.ml.
 - Then we add `/wp-admin` and make it https://bhishanpoudel.ml/wp-admin.
 
-# Customize the theme
+# Customize the theme (for example meditation theme)
 Follow these steps:  
 
   `Bhishan Poudel > Themes > Meditation > Editor > functions.php` 
