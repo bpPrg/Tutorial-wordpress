@@ -2,7 +2,7 @@
 <!-- # Author: Bhishan Poudel
 <!-- # Date  : Apr 10, 2018
 <!-- #==============================* -->
-# Change Howdy to Bhishan in wordpress website
+# Change "Howdy Bhishan" to "Welcome Bhishan" in WordPress website
 
 1. Paste this in your `functions.php` file.
 
