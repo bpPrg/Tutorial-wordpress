@@ -24,3 +24,14 @@ After:
  ```
  
  
+# Crawling on google
+```
+1. go to https://www.google.com/webmasters/tools/home?hl=en
+2. click on the thumbnail of your latest post
+3. Go to crawl
+4. Go to Fetch As Google
+5. Copy the post name after the basename of the website. eg (how-to-create-a-nice-talk-for-astro-seminar/)
+   Note: do not copy initial / sign at the end of the base url
+6. Click Fetch
+7. Tick Crawl only this
+```
