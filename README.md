@@ -10,7 +10,9 @@ First decrese the pdf size [online](https://www.ilovepdf.com/compress_pdf).
 ```
 1. Upload small sized pdf file to Media.
 2. Go to the 3D FlipBook Plugin (Left hand sidebar) and create a new book.
-3. Publish the post.
+3. Go to the Posts and add a new post.
+4. Click on Yello Book like icon to include the 3d book and publish it.
+5. Click view post to see how it looks now.
 ```
 
 # Customize the theme (for example meditation theme)
