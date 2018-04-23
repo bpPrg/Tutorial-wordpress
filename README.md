@@ -5,6 +5,14 @@ My personal blog https://bhishanpoudel.ml
 - First go to the website  https://bhishanpoudel.ml.
 - Then we add `/wp-admin` and make it https://bhishanpoudel.ml/wp-admin.
 
+# Adding 3d Flip Book
+First decrese the pdf size [online](https://www.ilovepdf.com/compress_pdf).
+```
+1. Upload small sized pdf file to Media.
+2. Go to the 3D FlipBook Plugin (Left hand sidebar) and create a new book.
+3. Publish the post.
+```
+
 # Customize the theme (for example meditation theme)
 Follow these steps:  
 
