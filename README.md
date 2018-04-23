@@ -13,6 +13,8 @@ First decrese the pdf size [online](https://www.ilovepdf.com/compress_pdf).
 3. Go to the Posts and add a new post.
 4. Click on Yello Book like icon to include the 3d book and publish it.
 5. Click view post to see how it looks now.
+6. Go to settings of the post at the bottom of the pdf, choose Single Page, turn off volume.
+7. Click on Full Screen buttom (Looks like X).
 ```
 
 # Customize the theme (for example meditation theme)
